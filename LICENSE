@@ -1,0 +1,27 @@
+## Usage Restrictions
+The content of the 'own-images' folder may not be used without my prior consent. Please contact me for permission.
+
+## Repository License Files
+./node_modules/preact/LICENSE
+./node_modules/preact/compat/LICENSE
+./node_modules/preact/debug/LICENSE
+./node_modules/preact/devtools/LICENSE
+./node_modules/preact/hooks/LICENSE
+./node_modules/preact/jsx-runtime/LICENSE
+./node_modules/@preact/signals/LICENSE
+./node_modules/@preact/signals-core/LICENSE
+./node_modules/@wordpress/interactivity/LICENSE.md
+
+## Restricciones de Uso
+El contenido de la carpeta 'own-images' no puede ser utilizado sin mi consentimiento previo. Por favor contacta conmigo para obtener permiso.
+
+## Archivos de Licencia del Repositorio
+./node_modules/preact/LICENSE
+./node_modules/preact/compat/LICENSE
+./node_modules/preact/debug/LICENSE
+./node_modules/preact/devtools/LICENSE
+./node_modules/preact/hooks/LICENSE
+./node_modules/preact/jsx-runtime/LICENSE
+./node_modules/@preact/signals/LICENSE
+./node_modules/@preact/signals-core/LICENSE
+./node_modules/@wordpress/interactivity/LICENSE.md
